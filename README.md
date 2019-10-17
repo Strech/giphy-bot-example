@@ -5,3 +5,5 @@ If you would like to see how bot is reacting on your messages, go to [this issue
 ```
 ~giphy grumpy cat
 ```
+
+![How it works](./how-it-works.gif)
